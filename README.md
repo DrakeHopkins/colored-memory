@@ -1,2 +1,2 @@
-# colored-memory
-Memory Game Based on Colors
+# color-memory
+A Memory Game Based on Colors
